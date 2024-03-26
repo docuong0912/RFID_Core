@@ -27,7 +27,11 @@ SETUP in VS IDE (purple icon):
     OPTION 2 Without upgrade:
   - Clone this project
   - Right-click solution > Add > Existing Project
+
+  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step21.png?raw=true)
   - Reference to RIFDCore folder of the cloned directory > RFIDCore.csproj > Select file
+
+  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step22.PNG?raw=true)
   - Reference STUHFL_cs.dll from original .net framework project by right-click on dependency tab  click "Add project reference..."
   - 
   - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step2.png?raw=true)
