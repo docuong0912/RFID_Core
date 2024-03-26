@@ -9,15 +9,15 @@ SETUP in VS IDE (purple icon):
 
   ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade1.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade1.PNG?raw=true)
 
   ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade2.PNG?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade3.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade3.PNG?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade4.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade4.PNG?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade5.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade5.{NG?raw=true)
   - Go to step 2 below
   Without upgrade:
   - Clone this project to the same directory of original RFID1 project
@@ -26,12 +26,12 @@ SETUP in VS IDE (purple icon):
   - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step2.png?raw=true)
   - 
   - go to tab Browse > Navigate to STUHFL_cs.dll of original project> select the file > click Add
-  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step3.png?raw=true)
+  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step3.PNG?raw=true)
   - 
   - Click OK on Reference Manager window
-  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step4.png?raw=true)
+  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step4.PNG?raw=true)
   - 
-  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step5.png?raw=true)
+  - ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/step5.PNG?raw=true)
   - run the project
 ERROR:
 - Handle Error	CS0103	The name 'SerialPort' does not exist in the current context	RFIDCore:
