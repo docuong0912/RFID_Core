@@ -1,5 +1,0 @@
-C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore6.0\obj\Debug\net6.0-windows\RFIDCore6.0.csproj.AssemblyReference.cache
-C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore6.0\obj\Debug\net6.0-windows\RFID_demo.Form1.resources
-C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore6.0\obj\Debug\net6.0-windows\RFIDCore6.0.csproj.GenerateResource.cache
-C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore6.0\obj\Debug\net6.0-windows\RFIDCore6.0.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore6.0\obj\Debug\net6.0-windows\RFIDCore6.0.csproj.CoreCompileInputs.cache
