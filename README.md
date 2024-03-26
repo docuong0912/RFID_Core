@@ -9,15 +9,15 @@ SETUP in VS IDE (purple icon):
 
   ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade-1.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade1.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade-2.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade2.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade-3.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade3.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade-4.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade4.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade-5.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade5.png?raw=true)
   - Go to step 2 below
   Without upgrade:
   - Clone this project to the same directory of original RFID1 project
