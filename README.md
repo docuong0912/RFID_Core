@@ -11,7 +11,7 @@ SETUP in VS IDE (purple icon):
 
   ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade1.png?raw=true)
 
-  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade2.png?raw=true)
+  ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade2.PNG?raw=true)
 
   ![alt text](https://github.com/docuong0912/RFID_Core/blob/main/images/upgrade3.png?raw=true)
 
