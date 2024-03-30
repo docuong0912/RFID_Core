@@ -1,0 +1,21 @@
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.exe.config
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.exe
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.pdb
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csprojAssemblyReference.cache
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csproj.CoreCompileInputs.cache
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csproj.CopyComplete
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.exe
+C:\Duong Nguyen\RFID_group\RFID_Drain\en.STSW-ST25RU-SDK_luu\ST25RU3993 STUHFL SDK package v3-1-0-0\Applications\STUHFL_demo_wrapper\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.pdb
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.exe.config
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.exe
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_demo_cs.pdb
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\MySql.Data.dll
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.Form1.resources
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.Form2.resources
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csproj.GenerateResource.cache
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csproj.CoreCompileInputs.cache
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csproj.CopyComplete
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.exe
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.pdb
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\obj\x64\Debug\STUHFL_demo_cs.csprojAssemblyReference.cache
+C:\Duong Nguyen\RFID_group\RFID_Drain\STUHFL_demo_cs\STUHFL_demo_cs\bin\Debug\x64\STUHFL_cs.dll
